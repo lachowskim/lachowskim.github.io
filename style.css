@@ -1,0 +1,37 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    z-index: 1000;
+    transition: height 0.3s;
+}
+
+.fixed-menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+    list-style-type: none;
+    margin: 0;
+}
+
+.fixed-menu li {
+    padding: 0;
+}
+
+.fixed-menu a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: transform 0.2s;
+}
+
+.fixed-menu a:hover {
+    transform: scale(1.1);
+}
+
+main {
+    padding: 100px 0;
+}
