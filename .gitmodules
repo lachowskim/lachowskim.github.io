@@ -1,0 +1,6 @@
+[submodule "TheOdinProjectExercises/TheOdinProjectExercises/RockPaperScissors"]
+	path = TheOdinProjectExercises/TheOdinProjectExercises/RockPaperScissors
+	url = https://github.com/lachowskim/RockPaperScissors.git
+[submodule "TheOdinProjectExercises/RockPaperScissors"]
+	path = TheOdinProjectExercises/RockPaperScissors
+	url = https://github.com/lachowskim/RockPaperScissors.git
